@@ -1,2 +1,2 @@
-# ReactXMLToJSON
+# ReactComponents
 Created with CodeSandbox
